@@ -1,8 +1,8 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-  loop do
     number_of_times = 1
+    loop do
     puts "Welcome to Flatiron School's Web Development Course!"
     break if number_of_times == 7
     number_of_times += 1
