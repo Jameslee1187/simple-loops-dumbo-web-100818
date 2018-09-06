@@ -45,6 +45,7 @@ def until_iterator(number_of_times)
   # hint: use a counter to tell the until loop when to stop!
   puts "Welcome to Flatiron School's Web Development Course!"
   number_of_times += 1
+end
 
 end
 
